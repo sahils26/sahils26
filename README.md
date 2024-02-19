@@ -1,7 +1,9 @@
 ![MasterHead](https://github.com/sahils26/sahils26/blob/main/github%20banner.png)
 <h1 align="center">Hello, I'm Sahil Sajwan</h1>
 <h3 align="center">Passionate programmer with proven skills in java, C++ ,Python and a full stack MERN developer</h3>
-<img  src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" alt="developer gif"/>
+<!-- <img align="right" alt="developer gif" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" > -->
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFmZzB2NDc5NHByZnZmZnhqYWY5YnQ5Nm56NnYzMjBxYWg0dTBzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
 
 - 🔭 I’m currently working on [EduHelp](https://eduhelp-zeta.vercel.app/)
 

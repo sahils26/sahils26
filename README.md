@@ -5,11 +5,11 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFmZzB2NDc5NHByZnZmZnhqYWY5YnQ5Nm56NnYzMjBxYWg0dTBzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
-- 🔭 I’m currently working on [EduHelp](https://eduhelp-zeta.vercel.app/)
+- 🔭 I’m currently working on [BulletproofRAG](https://github.com/sahils26/Bulletproof-RAG)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React ,Node ,Express ,Javascript**
+- 💬 Ask me about **LLMs ,AI ,Python**
 
 - 📫 How to reach me **sahilsajwan26@gmail.com**
 
